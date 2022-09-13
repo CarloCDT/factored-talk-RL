@@ -1,5 +1,5 @@
 # Factored Talk - RL
-## Reinforcement Learning - Can you beat the AI in a race?
+## Reinforcement Learning - Can you beat the AI in a race? 🏎️
 This repo contains everything needed to run Car Racing environment locally to play against an AI agent!
 
 ### Installation Instructions
