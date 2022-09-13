@@ -28,11 +28,15 @@ You should be ready to play and challenge Max Verstappen agent in a race now!
 
 ### Playing against the AI
 
-To play against the AI simply run
+To play against the AI a singel race you just need to run:
 
     python play_car_racing.py
 
 You will be asked to give an integer number which will the random seed to choose the track. Both you and the AI agent will drive in the same track, and the score will be printed in the terminal window. 
+
+However, if you're ready to challenge the world champions in a 10 race competition, add the ´--championship´ flag
+
+    python play_car_racing.py --championship
 
 ### World Championship
 
