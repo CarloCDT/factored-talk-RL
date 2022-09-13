@@ -32,4 +32,23 @@ To play against the AI simply run
 
     python play_car_racing.py
 
-You must choose an integer number which will the random seed to choose the track. Both you and the AI agent will drive in the same track, and the score will be printed in the terminal window. These are the tracks in which the AI drivers were tested: The World Championship.
+You will be asked to give an integer number which will the random seed to choose the track. Both you and the AI agent will drive in the same track, and the score will be printed in the terminal window. 
+
+### World Championship
+
+These are the tracks in which the AI drivers were tested: The World Championship. Can you beat the AI?
+
+| Track ID      | World Champion Score  | Random Seed | 
+| ------------- | --------------------- | ----------- | 
+| 1             | 879.66                |32           |
+| 2             | 893.63                |45           |
+| 3             | 867.32                |46           |
+| 4             | 881.82                |83           |
+| 5             | 856.52                |123          |
+| 6             | 823.08                |934          |
+| 7             | 875.0                 |563          |
+| 8             | 772.61                |1023         |
+| 9             | 873.58                |27546        |
+| 10            | 882.14                |32450        |
+
+**Average Score:** 860.53
