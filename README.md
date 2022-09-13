@@ -20,7 +20,7 @@ Change the directory to the factored-talk-rl repo:
 
     cd factored-talk-rl
     
-Install the requirements from ´requirements.txt´:
+Install the requirements from `requirements.txt`:
 
     pip install -r requirements.txt
 
@@ -34,7 +34,7 @@ To play against the AI a singel race you just need to run:
 
 You will be asked to give an integer number which will the random seed to choose the track. Both you and the AI agent will drive in the same track, and the score will be printed in the terminal window. 
 
-However, if you're ready to challenge the world champions in a 10 race competition, add the ´--championship´ flag
+However, if you're ready to challenge the world champions in a 10 race competition, add the `--championship` flag
 
     python play_car_racing.py --championship
 
