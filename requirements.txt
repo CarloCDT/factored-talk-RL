@@ -1,0 +1,5 @@
+gym
+tensorflow
+opencv-python
+pygame
+gym[box2d]
