@@ -4,7 +4,7 @@ This repo contains everything needed to run Car Racing environment locally to pl
 
 ### Installation Instructions
 
-Instructions for installing, for example command of package manager like:
+You can clone the repo by running:
 
     git clone https://github.com/CarloCDT/factored-talk-RL.git
 
