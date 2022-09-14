@@ -1,7 +1,5 @@
 # Factored Talk - RL
-
-Agent in action
-![Alt text](name_of_your_gif_file.gif)
+![Alt text](agent_gifs/agent_max__123.gif)
 
 ## Reinforcement Learning - Can you beat the AI in a race? 🏎️
 This repo contains everything needed to run Car Racing environment locally to play against an AI agent!
