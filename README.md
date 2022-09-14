@@ -1,4 +1,8 @@
 # Factored Talk - RL
+
+Agent in action
+![Alt text](name_of_your_gif_file.gif)
+
 ## Reinforcement Learning - Can you beat the AI in a race? 🏎️
 This repo contains everything needed to run Car Racing environment locally to play against an AI agent!
 
@@ -8,7 +12,7 @@ You can clone the repo by running:
 
     git clone https://github.com/CarloCDT/factored-talk-RL.git
 
-I would recommend to use a virtualenv. You can create a virtual env with:
+I would recommend to use a Python Virtual Environment Manager like `virtualenvwrapper`. This way the next step would be to create a new environment:
 
     mkvirtualenv factored_talk_rl
     
